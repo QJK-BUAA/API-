@@ -1,1 +1,1 @@
-deepseek_key = """sk-f9f36eed930646faba00343c6e7cf00f"""
+deepseek_key = """请自己去deepseek网站申请，有很多免费额度"""
